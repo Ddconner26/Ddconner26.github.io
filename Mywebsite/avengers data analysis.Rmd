@@ -1,0 +1,14 @@
+---
+title: "Avengers  Data Analysis"
+author: "Dominique Conner"
+date: "2025-04-26"
+output: html_document
+---
+# Avengers Data Analysis
+This project analyzes the Avengers dataset from FiveThirtyEight to explore questions like:
+- How many Earth-616 heroes are full-time or honorary Avengers?
+- How many of them are female?
+- How many times have they died in the comics?
+- How many original Avengers are still active?
+
+The full cleaned dataset, analysis, and plots can be found [here](github.com/Ddconner26/Avengers-analysis).
