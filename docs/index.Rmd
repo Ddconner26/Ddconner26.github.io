@@ -1,0 +1,35 @@
+---
+title: "Dominique Conner's Website "
+output: html_document
+---
+##Hello!
+This is my first GitHub Pages website using R Markdown and Posit Cloud.
+I'll be adding more updates soon!
+## About
+
+Hi My name is Dominique Conner. I'm currently studying data science and learning how to build websites using R Markdown and GitHub Pages. I'm passionate about data, storytelling, and exploring new tools that make data accessible.
+
+## Interests
+
+* Data visualization
+* R programming
+* Web design
+* Superhero comics and fantasy writing
+
+## Projects
+
+* This website you're reading now
+* An analysis of Avengers characters using `ggplot2`
+* Airbnb data cleaning and visualization in R
+* Exploring U.N. statistics and literacy rates
+
+## Profiles
+
+* [LinkedIn](https://www.linkedin.com/in/DominickConner/)
+* [GitHub](https://github.com/Ddconner26)
+
+## Contact
+
+* [ddconner26@gmail.com](mailto:ddconner26@gmail.com)
+
+
